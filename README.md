@@ -23,3 +23,5 @@
 - Lenguaje de programación: PHP
 - Base de datos: MySQL
 - Servidor web: XAMPP
+- Frontend: CSS
+- Arquitectura: MVC
